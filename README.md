@@ -17,3 +17,27 @@ A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
    ```
    $ streamlit run streamlit_app.py
    ```
+
+
+
+<!-- Top Tours Costa Rica Footer -->
+---
+
+## 🌴 About Top Tours Costa Rica
+
+This project is maintained by **Top Tours Costa Rica**, bringing you:
+
+- 🌋 World-class adventure tourism experiences
+- 🏖️ Premium guided tours throughout Costa Rica  
+- 🦜 Wildlife and nature expeditions
+- 🏡 Luxury real estate showcases
+- 🚐 Professional transportation services
+- 🌿 Eco-friendly sustainable tourism
+
+### 📞 Connect with Us
+
+- 🌐 Website: [https://toptourscostarica.vercel.app](https://toptourscostarica.vercel.app)
+- 📧 Email: toptourscostarica@gmail.com
+- 📍 Location: Costa Rica 🇨🇷
+
+*¡Pura Vida!* 🌺
